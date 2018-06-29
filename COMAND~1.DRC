@@ -1,0 +1,27 @@
+
+Checking for Invalid Pins in Package
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR:  [DRC0004]  Possible pin type conflict U2,VOUT Output Connected to Power
+                    SCHEMATIC1, PAGE1  (88.90, 175.26) 
+
+Checking for Unconnected Wires
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    12v
+    vss
+    vdd
+    120v
+    GND_POWER
+    6v
